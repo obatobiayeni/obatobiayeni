@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @weedydash
-- 👀 I’m interested in user experience design
-- 🌱 I’m currently learning frontend development
+- 👋 Hi, I’m @obatobiayeni
+- 👀 I’m a product designer
+- 🌱 I’m currently learning frontend development and solidity
 - 💞️ I’m looking to collaborate on open source design projects
 - 📫 You can reach me on hello@obatobiayeni.com
 
